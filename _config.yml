@@ -9,6 +9,7 @@ color_scheme: tudelft
 
 exclude:
   - DEVELOPMENT.md
+  - .vscode
 
 search_enabled: true
 search:

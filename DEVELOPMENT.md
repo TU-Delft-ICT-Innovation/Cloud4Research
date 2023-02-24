@@ -28,6 +28,5 @@ Run this command after cloning this project to local disk:
 Run this command to run jekyll while you edit the content files. It will output the URL where you can view the resulting website:
 
 ```
-bundle exec jekyll serve --config _config.yml,
-_config_dev.yml
+bundle exec jekyll serve --config _config.yml,_config_dev.yml
 ```
